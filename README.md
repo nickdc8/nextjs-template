@@ -119,8 +119,3 @@ import { Sun, Moon } from 'lucide-react'
 MIT — feel free to use, fork, and modify.
 
 ---
-
-## ✨ Author
-
-**[Your Name](https://yourwebsite.dev)**  
-Say hi on [Twitter](https://twitter.com/yourhandle) or [GitHub](https://github.com/yourusername)
