@@ -1,4 +1,4 @@
-import ThemeToggle from "@components/components/ThemeToggle";
+import ThemeToggle from '@components/components/ThemeToggle'
 export default function Home() {
   return (
     <div>
@@ -7,5 +7,5 @@ export default function Home() {
       </h1>
       <ThemeToggle />
     </div>
-  );
+  )
 }
